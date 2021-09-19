@@ -1,3 +1,3 @@
 # WildLife
 Project RSSChool 2021Q1
-https://prytmaks.github.io/wildlife/index.html
+https://prytmaks.github.io/WildLife/index
